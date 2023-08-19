@@ -1,0 +1,17 @@
+{
+  "name": "lukasz/book-directory-poc",
+  "description": "PoC for tracking and distributing books.",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Lukasz Jaskiewicz",
+      "email": "lukasz.jaskiewicz2@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/App"
+    }
+  }
+}
